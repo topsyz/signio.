@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557964528207",
+    "project_id": "signio-d6525",
+    "storage_bucket": "signio-d6525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557964528207:android:9f3961ba439902803ef83a",
+        "android_client_info": {
+          "package_name": "com.example.untitled18"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe651u1T0mAf-xBa_U1iCHAHTdqy2jWHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557964528207:android:5ccad5c529c36a253ef83a",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe651u1T0mAf-xBa_U1iCHAHTdqy2jWHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
